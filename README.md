@@ -10,7 +10,7 @@
 
 <h1 align="center"> <img src="meow_attentionreverse.gif" width="36"/> Here is what I know!</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=django,python,java,html,js,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,python,java,html,js,css,jenkins,linux)](https://skillicons.dev)
 
 <h1 align="center"> <img src="meow_code.gif" width="36"/> My stats!!</h1>
 
