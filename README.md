@@ -5,7 +5,7 @@
 
 - 👋 My name is Ricky Lu
 - 👀 I’m interested in software engineering (everyone is right? hehe)
--  Good news I'm AWS certified
+- 😆 Good news I'm AWS certified
 
 
 <h1 align="center"> <img src="meow_attentionreverse.gif" width="36"/> Here is what I know!</h1>
