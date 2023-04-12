@@ -5,7 +5,7 @@
 
 - 👋 My name is Ricky Lu
 - 👀 I’m interested in software engineering (everyone is right? hehe)
-- 🤔 I'm going to study for AWS Certified Cloud Practitioner!
+-  Good news I'm AWS certified
 
 
 <h1 align="center"> <img src="meow_attentionreverse.gif" width="36"/> Here is what I know!</h1>
